@@ -1,0 +1,1 @@
+This project contains the code for my project portfolio website that I made to help myself get a job.
